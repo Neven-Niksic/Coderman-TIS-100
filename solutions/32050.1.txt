@@ -1,0 +1,54 @@
+@0
+
+
+@1
+MOV UP, DOWN
+
+@2
+
+
+@3
+
+
+@4
+JEZ FIR
+MOV RIGHT, ACC
+FIR:
+   MOV ACC, RIGHT
+   JRO -2
+
+@5
+MOV UP, ACC
+JEZ FIR
+SAV
+SUB LEFT
+MOV ACC,  DOWN
+SWP
+MOV ACC, LEFT
+JRO -7
+FIR:
+   MOV 0, RIGHT
+
+@6
+MOV LEFT, DOWN
+
+@7
+
+
+@8
+MOV UP, ACC
+JEZ NNT
+JGZ NNT
+NEG
+NNT:
+   SUB 10
+   JLZ LES
+   MOV 1 RIGHT
+   JRO -7
+LES:
+   MOV 0, RIGHT
+
+@9
+MOV ANY, DOWN
+
+@10
