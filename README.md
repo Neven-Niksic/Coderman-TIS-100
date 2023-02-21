@@ -1,7 +1,7 @@
 # Coderman: TIS-100
-A set of puzzle solutions for the video game TIS-100, basically a walkthrough. Some puzzles have more than one solution.
+A set of puzzle solutions for the video game TIS-100, basically a walkthrough. As visible below, some puzzles received more than one solution.
 
-On Windows, put the .txt files directly into /Documents/My Games/TIS-100/[numbers]/save. If you're using something else, I can't help you.
+On Windows, put the .txt files directly into /Documents/My Games/TIS-100/[numbers]/save. If you're using something else, I can't help you. There are also screenshots if you want to make it easier to visualize what the code actually looks like in-game.
 
 ### Levels (and their stats)
 1. Self-Test Diagnostic (00150.x)
