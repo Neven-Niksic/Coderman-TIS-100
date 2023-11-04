@@ -23,7 +23,7 @@ On Windows, put the .txt files directly into /Documents/My Games/TIS-100/[number
 8. Signal Edge Detector (32050.x)
    - .0: 390 cycles, 7 nodes, 28 instructions - 2023-02-21
    - .1: 390 cycles, 6 nodes, 25 instructions - 2023-02-21
-   - .2: 352 cycles, 7 nodes, 29 instructions - 2023-02-21
+   - .2: 322 cycles, 7 nodes, 28 instructions - 2023-02-21
 
 ## Commentary
 1. Self-Test Diagnostic - Literally can't go better than this. Might not be able to go worse either, not without rendering the puzzle unsolvable.
